@@ -1,4 +1,9 @@
-
+.jumbotron {
+    background-image: url("../../image/burg.jpg");
+    background-position: center;
+    background-size: cover;
+    margin-top: 10px;
+}
 
 #newburger {
     border-radius: 5px;
